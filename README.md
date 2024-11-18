@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on superintendency of information technology of my university.
+- 🌱 I’m currently studying computer science in the Fluminense Federal University.
+  
 <!--
 **MarcosCompUff/MarcosCompUff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
